@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudioProjects-TheSpiceLounge.iml" filepath="$PROJECT_DIR$/.idea/modules/StudioProjects-TheSpiceLounge.iml" group="TheSpiceLounge" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheSpiceLounge.iml" filepath="$PROJECT_DIR$/.idea/modules/TheSpiceLounge.iml" group="TheSpiceLounge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TheSpiceLounge-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TheSpiceLounge-app.iml" group="TheSpiceLounge/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="TheSpiceLounge/app" />
     </modules>
   </component>

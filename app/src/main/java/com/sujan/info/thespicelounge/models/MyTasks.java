@@ -11,8 +11,7 @@ public class MyTasks {
     * 1. make feedback for waiter activity (Done)
     * 2. Get and display all the food orders for waiter
     * 2. Get and display all the food orders for Chef except served ones
-    * 2.
-    * 3.
+    * 3. Major issues resolved.
     * 4.
     *
     *
