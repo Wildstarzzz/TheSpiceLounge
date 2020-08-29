@@ -15,7 +15,7 @@ import com.sujan.info.thespicelounge.models.CustomerFeedback;
 import java.util.ArrayList;
 
 /**
- * Created by pradeep on 6/7/20.
+ * Created by Sujan on 6/7/20.
  */
 
 public class FeedbackListAdapter extends RecyclerView.Adapter<FeedbackListAdapter.ViewHolder> {

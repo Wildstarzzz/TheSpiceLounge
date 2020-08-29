@@ -23,7 +23,7 @@ import com.sujan.info.thespicelounge.models.FoodDetails;
 import java.util.ArrayList;
 
 /**
- * Created by pradeep on 10/7/20.
+ * Created by Sujan on 10/7/20.
  */
 
 public class FoodMenuAdapterChef extends RecyclerView.Adapter<FoodMenuAdapterChef.ViewHolder>{

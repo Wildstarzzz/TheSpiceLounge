@@ -1,7 +1,7 @@
 package com.sujan.info.thespicelounge.models;
 
 /**
- * Created by pradeep on 1/8/20.
+ * Created by Sujan on 1/8/20.
  */
 
 public class MyTasks {

@@ -6,7 +6,7 @@ import com.sujan.info.thespicelounge.models.OrderDetail;
 import java.util.ArrayList;
 
 /**
- * Created by pradeep on 3/8/20.
+ * Created by Sujan on 3/8/20.
  */
 
 public interface allOrderedListListener {

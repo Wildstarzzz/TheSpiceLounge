@@ -3,7 +3,7 @@ package com.sujan.info.thespicelounge.models;
 import java.util.ArrayList;
 
 /**
- * Created by pradeep on 19/7/20.
+ * Created by Sujan on 19/7/20.
  */
 
 public class TableInformation {

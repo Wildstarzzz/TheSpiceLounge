@@ -1,7 +1,7 @@
 package com.sujan.info.thespicelounge.Utils;
 
 /**
- * Created by pradeep on 16/7/20.
+ * Created by Sujan on 16/7/20.
  */
 
 public class Constants {

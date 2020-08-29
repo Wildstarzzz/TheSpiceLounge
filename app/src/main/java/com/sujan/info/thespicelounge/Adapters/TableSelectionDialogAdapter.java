@@ -15,7 +15,7 @@ import android.widget.Button;
 import com.sujan.info.thespicelounge.R;
 
 /**
- * Created by pradeep on 2/8/20.
+ * Created by Sujan on 2/8/20.
  */
 
 public class TableSelectionDialogAdapter extends Dialog implements View.OnClickListener{

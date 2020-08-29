@@ -12,7 +12,7 @@ import com.sujan.info.thespicelounge.webservices.GetMenuItems;
 import java.util.ArrayList;
 
 /**
- * Created by pradeep on 2/7/20.
+ * Created by Sujan on 2/7/20.
  */
 
 public class MenuAdapter extends ArrayAdapter<FoodDetails> implements MenuItemsListener {

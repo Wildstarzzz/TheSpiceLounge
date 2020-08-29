@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * Created by pradeep on 10/7/20.
+ * Created by Sujan on 10/7/20.
  */
 
 public class OrderedListAdapterCashier extends RecyclerView.Adapter<OrderedListAdapterCashier.ViewHolder>{

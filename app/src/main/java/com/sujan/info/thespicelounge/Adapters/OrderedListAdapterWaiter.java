@@ -27,7 +27,7 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * Created by pradeep on 8/7/20.
+ * Created by Sujan on 8/7/20.
  */
 
 public class OrderedListAdapterWaiter extends RecyclerView.Adapter<OrderedListAdapterWaiter.ViewHolder> {

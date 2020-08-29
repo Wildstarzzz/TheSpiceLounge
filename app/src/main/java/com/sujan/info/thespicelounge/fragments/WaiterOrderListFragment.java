@@ -15,7 +15,7 @@ import com.sujan.info.thespicelounge.Utils.ResourceManager;
 import com.sujan.info.thespicelounge.WaiterActivity;
 
 /**
- * Created by pradeep on 8/7/20.
+ * Created by Sujan on 8/7/20.
  */
 
 @SuppressLint("ValidFragment")

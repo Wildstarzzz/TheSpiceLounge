@@ -5,7 +5,7 @@ import android.support.annotation.NonNull;
 import java.util.Comparator;
 
 /**
- * Created by pradeep on 3/7/20.
+ * Created by Sujan on 3/7/20.
  */
 
 public class OrderDetail{
